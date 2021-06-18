@@ -1,6 +1,7 @@
 package Lesson;
 
 public class FibonacciSeries {
+    //This java program outputs the fibonacci series.
     public static void main(String[] args) {
         int n1 = 0;
         int n2 = 1;
